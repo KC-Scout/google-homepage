@@ -1,0 +1,23 @@
+body{
+    font-family: arial, sans-serif;
+    color: rgb(34, 34, 34);
+    font-size: 13px;
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: black;
+    padding-right: 15px;
+}
+a:hover {
+    text-decoration: underline;
+}
+.top-box {
+    padding-top: 30px;
+    margin-left: 30px;
+}
+.top-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
